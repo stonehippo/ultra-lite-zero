@@ -42,3 +42,4 @@ Built using Platform.io.
 * Pits - spikes included
 * Lava - so hot right now
 * Stones - gravity-powered crushers for squashing 
+* Bombs - always cut the red wire, or maybe the white wire
