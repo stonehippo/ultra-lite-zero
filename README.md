@@ -6,7 +6,6 @@ Built using Platform.io.
 
 ## Game Elements
 
-
 ### Entities
 
 * Rooms - the game is played in a series of rooms
@@ -14,7 +13,7 @@ Built using Platform.io.
 * NPCs - non-player characters; PCs can interact with them
 * Monsters - non-player characters; PCs can fight them!
 * Traps - devices in Rooms that PCs must disarm or avoid, else BLAM!
-* Treaures - stuff PCs can steal from monsters
+* Treasures - stuff PCs can steal from monsters
 
 ### Player Character Types
 
