@@ -1,5 +1,12 @@
 #include <Arduino.h>
 #include "main.h"
+#include "rooms.h"
+#include "players.h"
+#include "npcs.h"
+#include "traps.h"
+#include "monsters.h"
+#include "treasures.h"
+
 
 int rollBtnPin = 3;
 bool rollFlag = false;
