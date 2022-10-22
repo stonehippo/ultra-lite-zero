@@ -7,6 +7,6 @@ class Treasure
 {
     public:
     private:
-}
+};
 
 #endif

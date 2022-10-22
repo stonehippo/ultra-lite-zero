@@ -7,6 +7,6 @@ class Monster
 {
     public:
     private:
-}
+};
 
 #endif

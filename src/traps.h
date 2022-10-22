@@ -7,6 +7,6 @@ class Trap
 {
     public:
     private:
-}
+};
 
 #endif

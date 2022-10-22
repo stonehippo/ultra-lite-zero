@@ -7,6 +7,6 @@ class NPC
 {
     public:
     private:
-}
+};
 
 #endif
